@@ -1,0 +1,1 @@
+docker build ./docker -t x64/anydepth:latest
